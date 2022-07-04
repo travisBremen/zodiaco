@@ -4,8 +4,6 @@ A new Flutter project.
 
 ## Getting Started
 
-$$
-
 ### Development Server Setup
 Game server is a Nodejs based websocket server.
 #### 1. Install Nodejs
